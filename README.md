@@ -20,6 +20,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
   * [Network Configuration Management](#network-configuration-management)
   * [Newsletter](#newsletters)
   * [NoSQL](#nosql)
+  * [Orchestration](#orchestration)
   * [RDBMS](#rdbms)
   * [SMTP](#smtp)
   * [Software Containers](#software-containers)
@@ -196,6 +197,12 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Riak](http://basho.com/riak/) - Another fault-tolerant key-value NoSQL database.
 
 Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
+
+## Orchestration
+*Tools for orchestration of actions across servers*
+
+* [MCollective](https://docs.puppetlabs.com/mcollective/) - Framework for building server orchestration using message queues as a transport.
+* [Serf](http://www.serfdom.io/) - Decentralized tool for cluster membership, failure detection, and orchestration.
 
 ## RDBMS
 *Relational DBMS.*
