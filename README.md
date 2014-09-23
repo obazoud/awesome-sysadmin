@@ -173,6 +173,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Collectd](http://collectd.org/) - System statistic collection daemon.
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
+* [PulseDB](https://github.com/pulsedb/pulsedb) - Database for storing statistics data in Erlang.
 * [Statsd](https://github.com/etsy/statsd/) - Application statistic listener.
 
 ## Network Configuration Management
